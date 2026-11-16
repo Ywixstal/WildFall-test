@@ -1,0 +1,15 @@
+Sprites de Wildfall (extraits de la v53 du jeu)
+
+HERO  : héros des classes (swords0 = épéiste sans lame, swords = avec lame, build, mage, necro, sniper)
+SALI  : animation du Salopard (sal0 à sal18)
+MONS / MONS2 : monstres communs et variantes
+DRG, ENTD, DJD, ENV : planches des boss (dragon, Ent, Djinn) et décor spécial (statue)
+CHS   : coffres (cc0-5 fermés, co0-5 ouverts)
+ITS   : objets et projectiles (potion, orbe, sorts, balle)
+TLS   : pièges, camps, murs et sols de construction
+LKI / STI : lacs et éléments de terrain
+BIM   : sols des biomes (prairie, désert, forêt, bordures)
+SWI   : épées (sw*)
+DCI   : décors (arbres, rochers, buissons, souches, etc.) numérotés d<n>
+Les numéros viennent du code du jeu. Fichiers PNG à fond transparent.
+CAS   : les deux images de château du jeu (castle, mcastle)
